@@ -1,0 +1,20 @@
+{
+    "privacy": {
+        "enable_notifications": true
+    },
+    "account": {
+        "auto_login": false,
+        "remember_username": false,
+        "saved_username": ""
+    },
+    "security": {
+        "auto_logout_after": 30
+    },
+    "performance": {
+        "video_quality": "Low Quality (Faster)",
+        "use_external_player": false,
+        "limit_resolution": false,
+        "reduce_background": false,
+        "optimize_memory": false
+    }
+}

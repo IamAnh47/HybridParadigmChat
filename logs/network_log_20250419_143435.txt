@@ -1,0 +1,12 @@
+=== Log Started at 2025-04-19 14:34:35 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_143435.txt
+==================================================
+2025-04-19 14:34:35 - User 1 logged in - Port: 5001
+2025-04-19 14:34:35,632 - INFO - Starting channel host on port 8448
+2025-04-19 14:34:35,646 - INFO - Loaded data for channel 1 (ggg)
+2025-04-19 14:34:35 - Started channel hosting for user 1 on port 8448
+2025-04-19 14:34:36 - CONNECTION - USER_LOGIN - Host: localhost - Port: 5001 - Status: User ID: 1
+2025-04-19 14:39:03 - Application closed
+
+=== Log closed at 2025-04-19 14:39:03 ===

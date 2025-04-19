@@ -1,0 +1,20 @@
+=== Log Started at 2025-04-19 15:03:22 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_150322.txt
+==================================================
+2025-04-19 15:03:22 - User 1 logged in - Port: 9843
+2025-04-19 15:03:22,441 - INFO - Starting channel host on port 8563
+2025-04-19 15:03:22,465 - INFO - Loaded data for channel 1 (ggg)
+2025-04-19 15:03:22,468 - INFO - Loaded data for channel 2 (gre)
+2025-04-19 15:03:22,471 - INFO - Loaded data for channel 3 (fefef)
+2025-04-19 15:03:22 - Started channel hosting for user 1 on port 8563
+2025-04-19 15:03:22 - CONNECTION - USER_LOGIN - Host: localhost - Port: 9843 - Status: User ID: 1
+2025-04-19 15:03:36 - Application closed
+
+=== Log closed at 2025-04-19 15:03:36 ===
+=== Log Started at 2025-04-19 15:03:36 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_150322.txt
+==================================================
+2025-04-19 15:03:36 - WARNING: Log file was None, reopened successfully
+2025-04-19 15:03:36,717 - INFO - Stopped channel hosting on port 8563

@@ -1,0 +1,11 @@
+=== Log Started at 2025-04-19 14:58:59 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_145859.txt
+==================================================
+2025-04-19 14:58:59 - User 1 logged in - Port: 5489
+2025-04-19 14:58:59,284 - INFO - Starting channel host on port 8646
+2025-04-19 14:58:59,300 - INFO - Loaded data for channel 1 (ggg)
+2025-04-19 14:58:59,302 - INFO - Loaded data for channel 2 (gre)
+2025-04-19 14:58:59,304 - INFO - Loaded data for channel 3 (fefef)
+2025-04-19 14:58:59 - Started channel hosting for user 1 on port 8646
+2025-04-19 14:59:00 - CONNECTION - USER_LOGIN - Host: localhost - Port: 5489 - Status: User ID: 1

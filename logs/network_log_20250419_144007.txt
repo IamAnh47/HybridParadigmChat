@@ -1,0 +1,13 @@
+=== Log Started at 2025-04-19 14:40:07 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_144007.txt
+==================================================
+2025-04-19 14:40:07 - User 2 logged in - Port: 5001
+2025-04-19 14:40:07,221 - INFO - Starting channel host on port 8324
+2025-04-19 14:40:07 - Started channel hosting for user 2 on port 8324
+2025-04-19 14:40:08 - CONNECTION - USER_LOGIN - Host: localhost - Port: 5001 - Status: User ID: 2
+2025-04-19 14:41:07 - DATA - SEND - Host: localhost - Port: 5001 - Type: channel_message - Size: 4 bytes
+2025-04-19 14:41:07 - DATA - SEND - Host: localhost - Port: 5001 - Type: channel_message_to_user_1 - Size: 4 bytes
+2025-04-19 14:48:46 - Application closed
+
+=== Log closed at 2025-04-19 14:48:46 ===

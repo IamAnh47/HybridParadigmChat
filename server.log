@@ -1,0 +1,101 @@
+2025-04-18 14:03:21,818 - INFO - Server started on localhost:5000
+2025-04-18 14:03:21,818 - INFO - Server is listening for connections...
+2025-04-18 14:06:45,300 - INFO - Server started on localhost:5000
+2025-04-18 14:06:45,300 - INFO - Server is listening for connections...
+2025-04-18 14:09:42,947 - INFO - Server started on localhost:5000
+2025-04-18 14:09:42,947 - INFO - Server is listening for connections...
+2025-04-18 14:16:05,460 - INFO - Server started on localhost:5000
+2025-04-18 14:16:05,460 - INFO - Server is listening for connections...
+2025-04-18 14:16:13,952 - INFO - New connection from ('127.0.0.1', 61508)
+2025-04-18 14:16:13,953 - INFO - New peer connected: localhost:5001
+2025-04-18 14:16:20,615 - ERROR - Error handling client ('127.0.0.1', 61508): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-18 14:16:20,616 - INFO - Client disconnected: User
+2025-04-18 14:18:15,266 - INFO - Server started on localhost:5000
+2025-04-18 14:18:15,266 - INFO - Server is listening for connections...
+2025-04-18 14:32:12,176 - root - INFO - Server started on 0.0.0.0:5001
+2025-04-18 14:34:55,838 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 14:36:24,829 - root - INFO - New connection from ('127.0.0.1', 63386)
+2025-04-18 14:36:24,830 - root - INFO - Received from ('127.0.0.1', 63386): shutdown
+2025-04-18 14:36:24,830 - root - INFO - Received shutdown command from localhost
+2025-04-18 14:36:24,830 - root - INFO - Shutting down server...
+2025-04-18 14:36:24,831 - root - INFO - Server shutdown complete
+2025-04-18 14:36:24,831 - root - INFO - Shutting down server...
+2025-04-18 14:36:24,831 - root - INFO - Client ('127.0.0.1', 63386) disconnected
+2025-04-18 14:36:24,832 - root - INFO - Server shutdown complete
+2025-04-18 14:37:13,275 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 14:42:38,041 - root - INFO - New connection from ('127.0.0.1', 63817)
+2025-04-18 14:42:38,042 - root - INFO - Received from ('127.0.0.1', 63817): shutdown
+2025-04-18 14:42:38,042 - root - INFO - Received shutdown command from localhost
+2025-04-18 14:42:38,042 - root - INFO - Shutting down server...
+2025-04-18 14:42:38,043 - root - INFO - Server shutdown complete
+2025-04-18 14:42:38,043 - root - INFO - Shutting down server...
+2025-04-18 14:42:38,043 - root - INFO - Client ('127.0.0.1', 63817) disconnected
+2025-04-18 14:42:38,044 - root - INFO - Server shutdown complete
+2025-04-18 14:42:53,676 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 15:53:32,688 - root - INFO - New connection from ('127.0.0.1', 54824)
+2025-04-18 15:53:32,714 - root - INFO - Received from ('127.0.0.1', 54824): shutdown
+2025-04-18 15:53:32,715 - root - INFO - Received shutdown command from localhost
+2025-04-18 15:53:32,715 - root - INFO - Shutting down server...
+2025-04-18 15:53:32,715 - root - INFO - Server shutdown complete
+2025-04-18 15:53:32,716 - root - INFO - Shutting down server...
+2025-04-18 15:53:32,717 - root - INFO - Client ('127.0.0.1', 54824) disconnected
+2025-04-18 15:53:32,717 - root - INFO - Server shutdown complete
+2025-04-18 15:53:52,724 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 15:54:10,006 - root - INFO - New connection from ('127.0.0.1', 54843)
+2025-04-18 15:54:10,007 - root - INFO - Received from ('127.0.0.1', 54843): shutdown
+2025-04-18 15:54:10,007 - root - INFO - Received shutdown command from localhost
+2025-04-18 15:54:10,007 - root - INFO - Shutting down server...
+2025-04-18 15:54:10,008 - root - INFO - Server shutdown complete
+2025-04-18 15:54:10,008 - root - INFO - Shutting down server...
+2025-04-18 15:54:10,008 - root - INFO - Client ('127.0.0.1', 54843) disconnected
+2025-04-18 15:54:10,008 - root - INFO - Server shutdown complete
+2025-04-18 15:54:32,345 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 15:56:02,709 - root - INFO - New connection from ('127.0.0.1', 55079)
+2025-04-18 15:56:02,710 - root - INFO - Received from ('127.0.0.1', 55079): shutdown
+2025-04-18 15:56:02,711 - root - INFO - Received shutdown command from localhost
+2025-04-18 15:56:02,711 - root - INFO - Shutting down server...
+2025-04-18 15:56:02,711 - root - INFO - Server shutdown complete
+2025-04-18 15:56:02,711 - root - INFO - Shutting down server...
+2025-04-18 15:56:02,711 - root - INFO - Client ('127.0.0.1', 55079) disconnected
+2025-04-18 15:56:02,711 - root - INFO - Server shutdown complete
+2025-04-18 15:56:53,555 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 15:57:19,568 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 16:04:46,232 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 16:05:50,255 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-18 16:25:44,374 - root - INFO - New connection from ('127.0.0.1', 58342)
+2025-04-18 16:25:44,394 - root - INFO - Received from ('127.0.0.1', 58342): shutdown
+2025-04-18 16:25:44,395 - root - INFO - Received shutdown command from localhost
+2025-04-18 16:25:44,395 - root - INFO - Shutting down server...
+2025-04-18 16:25:44,397 - root - INFO - Server shutdown complete
+2025-04-18 16:25:44,398 - root - INFO - Shutting down server...
+2025-04-18 16:25:44,398 - root - INFO - Client ('127.0.0.1', 58342) disconnected
+2025-04-18 16:25:44,399 - root - INFO - Server shutdown complete
+2025-04-19 00:03:54,411 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 00:24:02,579 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 02:43:59,306 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 13:32:48,839 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 14:49:02,417 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 14:52:08,435 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 14:58:22,290 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 15:02:53,967 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 15:02:57,130 - root - INFO - New connection from ('127.0.0.1', 61846)
+2025-04-19 15:02:57,131 - root - INFO - Client ('127.0.0.1', 61846) disconnected
+2025-04-19 15:04:16,602 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 15:04:20,178 - root - INFO - New connection from ('127.0.0.1', 61882)
+2025-04-19 15:04:20,179 - root - INFO - Client ('127.0.0.1', 61882) disconnected
+2025-04-19 15:05:44,543 - root - INFO - New connection from ('127.0.0.1', 61908)
+2025-04-19 15:05:44,545 - root - INFO - Client ('127.0.0.1', 61908) disconnected
+2025-04-19 15:05:59,857 - root - INFO - New connection from ('127.0.0.1', 61915)
+2025-04-19 15:05:59,858 - root - INFO - Client ('127.0.0.1', 61915) disconnected
+2025-04-19 15:25:24,175 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 15:25:31,251 - root - INFO - New connection from ('127.0.0.1', 63821)
+2025-04-19 15:25:31,252 - root - INFO - Client ('127.0.0.1', 63821) disconnected
+2025-04-19 15:29:42,530 - root - INFO - New connection from ('127.0.0.1', 64087)
+2025-04-19 15:29:42,545 - root - INFO - Client ('127.0.0.1', 64087) disconnected
+2025-04-19 15:37:07,521 - root - INFO - New connection from ('127.0.0.1', 64888)
+2025-04-19 15:37:07,525 - root - INFO - Client ('127.0.0.1', 64888) disconnected
+2025-04-19 16:38:12,470 - root - INFO - Server started on 0.0.0.0:5000
+2025-04-19 16:38:19,113 - root - INFO - New connection from ('127.0.0.1', 50827)
+2025-04-19 16:38:19,114 - root - INFO - Client ('127.0.0.1', 50827) disconnected
+2025-04-19 16:38:35,958 - root - INFO - New connection from ('127.0.0.1', 50840)
+2025-04-19 16:38:35,959 - root - INFO - Client ('127.0.0.1', 50840) disconnected

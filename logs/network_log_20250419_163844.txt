@@ -1,0 +1,8 @@
+=== Log Started at 2025-04-19 16:38:44 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_163844.txt
+==================================================
+2025-04-19 16:38:44 - User 3 logged in - Port: 6570
+2025-04-19 16:38:44,475 - INFO - Starting channel host on port 8132
+2025-04-19 16:38:44 - Started channel hosting for user 3 on port 8132
+2025-04-19 16:38:44 - CONNECTION - USER_LOGIN - Host: localhost - Port: 6570 - Status: User ID: 3

@@ -1,0 +1,19 @@
+=== Log Started at 2025-04-19 15:06:07 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_150607.txt
+==================================================
+2025-04-19 15:06:07 - User 2 logged in - Port: 5597
+2025-04-19 15:06:07,535 - INFO - Starting channel host on port 8083
+2025-04-19 15:06:07 - Started channel hosting for user 2 on port 8083
+2025-04-19 15:06:07 - CONNECTION - USER_LOGIN - Host: localhost - Port: 5597 - Status: User ID: 2
+2025-04-19 15:06:24 - DATA - SEND - Host: localhost - Port: 5597 - Type: channel_message - Size: 3 bytes
+2025-04-19 15:06:24 - DATA - SEND - Host: localhost - Port: 5597 - Type: channel_message_to_user_1 - Size: 3 bytes
+2025-04-19 15:07:40 - Application closed
+
+=== Log closed at 2025-04-19 15:07:40 ===
+=== Log Started at 2025-04-19 15:07:40 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_150607.txt
+==================================================
+2025-04-19 15:07:40 - WARNING: Log file was None, reopened successfully
+2025-04-19 15:07:40,482 - INFO - Stopped channel hosting on port 8083

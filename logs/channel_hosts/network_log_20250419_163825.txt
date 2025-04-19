@@ -1,0 +1,16 @@
+=== Log Started at 2025-04-19 16:38:25 ===
+Max Entries: 10000
+Log File: logs/channel_hosts\network_log_20250419_163825.txt
+==================================================
+2025-04-19 16:38:25,643 - INFO - Starting channel host on port 8976
+2025-04-19 16:38:25 - CONNECTION - START_HOSTING - Host: localhost - Port: 8976 - Status: initializing
+2025-04-19 16:38:25 - CONNECTION - START_HOSTING - Host: 0.0.0.0 - Port: 8976 - Status: success
+2025-04-19 16:38:25 - CHANNEL_HOSTING - LOAD - Channel: ggg (ID: 1) - Status: success
+2025-04-19 16:38:25,656 - INFO - Loaded data for channel 1 (ggg)
+2025-04-19 16:38:25 - CHANNEL_HOSTING - LOAD_DATA - Channel: ggg (ID: 1) - Status: success - 4 messages, 2 members
+2025-04-19 16:38:25 - CHANNEL_HOSTING - LOAD - Channel: gre (ID: 2) - Status: success
+2025-04-19 16:38:25,658 - INFO - Loaded data for channel 2 (gre)
+2025-04-19 16:38:25 - CHANNEL_HOSTING - LOAD_DATA - Channel: gre (ID: 2) - Status: success - 0 messages, 1 members
+2025-04-19 16:38:25 - CHANNEL_HOSTING - LOAD - Channel: fefef (ID: 3) - Status: success
+2025-04-19 16:38:25,660 - INFO - Loaded data for channel 3 (fefef)
+2025-04-19 16:38:25 - CHANNEL_HOSTING - LOAD_DATA - Channel: fefef (ID: 3) - Status: success - 1 messages, 1 members

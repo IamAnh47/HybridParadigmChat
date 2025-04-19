@@ -1,0 +1,25 @@
+=== Log Started at 2025-04-19 15:37:15 ===
+Max Entries: 10000
+Log File: logs/channel_hosts\network_log_20250419_153715.txt
+==================================================
+2025-04-19 15:37:15,116 - INFO - Starting channel host on port 8371
+2025-04-19 15:37:15 - CONNECTION - START_HOSTING - Host: localhost - Port: 8371 - Status: initializing
+2025-04-19 15:37:15 - CONNECTION - START_HOSTING - Host: 0.0.0.0 - Port: 8371 - Status: success
+2025-04-19 15:37:15 - CHANNEL_HOSTING - LOAD - Channel: ggg (ID: 1) - Status: success
+2025-04-19 15:37:15,149 - INFO - Loaded data for channel 1 (ggg)
+2025-04-19 15:37:15 - CHANNEL_HOSTING - LOAD_DATA - Channel: ggg (ID: 1) - Status: success - 4 messages, 2 members
+2025-04-19 15:37:15 - CHANNEL_HOSTING - LOAD - Channel: gre (ID: 2) - Status: success
+2025-04-19 15:37:15,152 - INFO - Loaded data for channel 2 (gre)
+2025-04-19 15:37:15 - CHANNEL_HOSTING - LOAD_DATA - Channel: gre (ID: 2) - Status: success - 0 messages, 1 members
+2025-04-19 15:37:15 - CHANNEL_HOSTING - LOAD - Channel: fefef (ID: 3) - Status: success
+2025-04-19 15:37:15,154 - INFO - Loaded data for channel 3 (fefef)
+2025-04-19 15:37:15 - CHANNEL_HOSTING - LOAD_DATA - Channel: fefef (ID: 3) - Status: success - 1 messages, 1 members
+2025-04-19 15:37:57 - CONNECTION - STOP_HOSTING - Host: localhost - Port: 8371 - Status: success
+
+=== Log closed at 2025-04-19 15:37:57 ===
+=== Log Started at 2025-04-19 15:37:57 ===
+Max Entries: 10000
+Log File: logs/channel_hosts\network_log_20250419_153715.txt
+==================================================
+2025-04-19 15:37:57 - WARNING: Log file was None, reopened successfully
+2025-04-19 15:37:57,316 - INFO - Stopped channel hosting on port 8371

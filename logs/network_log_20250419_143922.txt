@@ -1,0 +1,21 @@
+=== Log Started at 2025-04-19 14:39:22 ===
+Max Entries: 10000
+Log File: logs\network_log_20250419_143922.txt
+==================================================
+2025-04-19 14:39:22 - User 1 logged in - Port: 5001
+2025-04-19 14:39:22,821 - INFO - Starting channel host on port 8226
+2025-04-19 14:39:22,837 - INFO - Loaded data for channel 1 (ggg)
+2025-04-19 14:39:22,839 - INFO - Loaded data for channel 2 (gre)
+2025-04-19 14:39:22 - Started channel hosting for user 1 on port 8226
+2025-04-19 14:39:23 - CONNECTION - USER_LOGIN - Host: localhost - Port: 5001 - Status: User ID: 1
+2025-04-19 14:39:40,557 - INFO - Loaded data for channel 3 (fefef)
+2025-04-19 14:39:40 - CHANNEL_HOSTING - CREATE - Channel: fefef (ID: 3) - Status: hosted on port 8226
+2025-04-19 14:41:18 - DATA - SEND - Host: localhost - Port: 5001 - Type: channel_message - Size: 5 bytes
+2025-04-19 14:41:18 - DATA - SEND - Host: localhost - Port: 5001 - Type: channel_message_to_user_2 - Size: 5 bytes
+2025-04-19 14:41:18 - CHANNEL_HOSTING - MESSAGE - Channel: ggg (ID: 1) - Status: from user 1
+2025-04-19 14:41:25 - DATA - SEND - Host: localhost - Port: 5001 - Type: channel_message - Size: 79 bytes
+2025-04-19 14:41:25 - DATA - SEND - Host: localhost - Port: 5001 - Type: channel_message_to_user_2 - Size: 79 bytes
+2025-04-19 14:41:25 - CHANNEL_HOSTING - MESSAGE - Channel: ggg (ID: 1) - Status: from user 1
+2025-04-19 14:48:44 - Application closed
+
+=== Log closed at 2025-04-19 14:48:44 ===
