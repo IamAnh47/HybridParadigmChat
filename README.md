@@ -1,4 +1,4 @@
-# Hybrid ParadigmChat Chat Application
+# Hybrid Paradigm Chat Application
 
 A hybrid client-server and P2P chat application with features similar to Discord.
 
