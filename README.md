@@ -1,4 +1,4 @@
-# Discord-like Chat Application
+# Hybrid ParadigmChat Chat Application
 
 A hybrid client-server and P2P chat application with features similar to Discord.
 
@@ -41,10 +41,9 @@ chat/
 │   ├── client/          # Client application
 │   ├── server/          # Server application
 │   └── database/        # Database models and operations
-├── tests/               # Test files
+├── Log/               # 
 └── docs/                # Documentation
+...
 ```
 
-## License
-
-MIT License 
+## License 

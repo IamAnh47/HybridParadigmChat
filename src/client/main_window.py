@@ -144,7 +144,7 @@ class VideoOpenerThread(QThread):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Discord-like Chat")
+        self.setWindowTitle("Hybrid ParadigmChat Chat")
         self.setMinimumSize(1200, 800)
         self.setStyleSheet("""
             QMainWindow {
@@ -597,7 +597,7 @@ class MainWindow(QMainWindow):
         self.friend_list.clear()
         self.chat_area.clear()
         self.channel_name_label.setText("Select a channel or friend")
-        self.setWindowTitle("Discord-like Chat")
+        self.setWindowTitle("Hybrid ParadigmChat Chat")
         self.update_status_button()
 
         if not self.show_auth_dialog():
@@ -734,7 +734,7 @@ class MainWindow(QMainWindow):
 
             self.init_channel_hosting()
 
-            self.setWindowTitle(f"Discord-like Chat - {username} (Port: {self.port})")
+            self.setWindowTitle(f"Hybrid ParadigmChat Chat - {username} (Port: {self.port})")
             self.load_channels()
             self.load_friends()
             self.load_pending_requests()
@@ -763,7 +763,7 @@ class MainWindow(QMainWindow):
                 self.system_logger.log_connection("localhost", self.port, "user_login", f"User ID: {self.current_user_id}")
             
         elif self.visitor_username:
-            self.setWindowTitle(f"Discord-like Chat - Visitor: {self.visitor_username} (Port: {self.port})")
+            self.setWindowTitle(f"Hybrid ParadigmChat Chat - Visitor: {self.visitor_username} (Port: {self.port})")
             self.load_channels()
             self.friend_list.clear()
             self.chat_area.clear()
@@ -1450,7 +1450,7 @@ class MainWindow(QMainWindow):
 
     def show_about(self):
         QMessageBox.about(self, "About",
-            "Discord-like Chat Application\n"
+            "Hybrid ParadigmChat Chat Application\n"
             "Version 1.0\n"
             "A hybrid client-server and P2P chat application."
         )
@@ -1500,7 +1500,7 @@ class MainWindow(QMainWindow):
         self.friend_list.clear()
         self.chat_area.clear()
         self.channel_name_label.setText("Select a channel or friend")
-        self.setWindowTitle("Discord-like Chat")
+        self.setWindowTitle("Hybrid ParadigmChat Chat")
         self.update_status_button()
 
         if not self.show_auth_dialog():

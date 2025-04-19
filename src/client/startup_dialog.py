@@ -12,7 +12,7 @@ import logging
 class StartupDialog(QDialog):
     def __init__(self, parent=None):
         super().__init__(parent)
-        self.setWindowTitle("Discord-like Chat - Startup")
+        self.setWindowTitle("Hybrid ParadigmChat Chat - Startup")
         self.setFixedSize(400, 500)
         self.setStyleSheet("""
             QDialog {
@@ -86,7 +86,7 @@ class StartupDialog(QDialog):
         main_layout.addLayout(port_layout)
         
         # Title
-        title = QLabel("Welcome to Discord-like Chat")
+        title = QLabel("Welcome to Hybrid ParadigmChat Chat")
         title.setFont(QFont("Arial", 20, QFont.Bold))
         title.setAlignment(Qt.AlignCenter)
         main_layout.addWidget(title)

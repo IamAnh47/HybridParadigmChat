@@ -5,7 +5,6 @@ from PySide6.QtWidgets import QApplication, QMessageBox
 import logging
 
 def check_server_connection():
-    """Check if the server is running by attempting to connect to it"""
     from src.server.config import SERVER_PORT
     
     possible_hosts = ["localhost", "127.0.0.1", "0.0.0.0"]

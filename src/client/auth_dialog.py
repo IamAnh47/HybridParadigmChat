@@ -12,7 +12,7 @@ import random
 class AuthDialog(QDialog):
     def __init__(self, parent=None):
         super().__init__(parent)
-        self.setWindowTitle("Discord-like Chat - Authentication")
+        self.setWindowTitle("Hybrid ParadigmChat Chat Application - Login")
         self.setFixedSize(400, 550) 
         self.setStyleSheet("""
             QDialog {
@@ -116,7 +116,7 @@ class AuthDialog(QDialog):
         
         main_layout.addSpacing(10) 
 
-        title = QLabel("Welcome to Discord-like Chat")
+        title = QLabel("Welcome to Hybrid ParadigmChat Chat")
         title.setAlignment(Qt.AlignCenter)
         title.setFont(QFont("Arial", 18, QFont.Bold))
         main_layout.addWidget(title)

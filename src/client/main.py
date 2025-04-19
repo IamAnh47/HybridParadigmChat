@@ -42,7 +42,7 @@ class NetworkThread(QThread):
 class ChatClient(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Discord-like Chat")
+        self.setWindowTitle("Hybrid ParadigmChat Chat")
         self.setGeometry(100, 100, WINDOW_WIDTH, WINDOW_HEIGHT)
         
         self.server_socket = None
